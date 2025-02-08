@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TexTrue, you can also call me TexBlock.
-- I'm a Chinese high school student.
+- I'm a Chinese junior college student.
 - 👀 I’m interested in Minecraft，Animation(my favorite animation is "Bocchi the Rock!")! 
 - I have been playing Minecraft: Pocket Edition (Now it should be called Minecraft: Bedrock Edition) since 2014, Minecraft: Java Edition since 2017, and porting mod since 2022.
 
